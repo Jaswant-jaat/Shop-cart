@@ -1,0 +1,25 @@
+.item{
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.3);
+}
+.item img{
+    width: 150px;
+}
+.item input{
+    width: 40px;
+    height: 40px;
+    font-size: large;
+    border: none;
+}
+.item button{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    color: #fff;
+}
+.total-form input{
+    border: none;
+    max-width: 150px;
+}
+.total-form h4{
+    margin: 0;
+}
